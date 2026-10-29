@@ -20,7 +20,7 @@
 # Пример использования.
 В качестве ввода используем `#include <> false iostream cstring vector string` в файле расширения .cpp.
 ## Перед выполнением команды:
-![Before](images\before.jpg)
-![Command](images\command.jpg)
+![Before](images/before.jpg)
+![Command](images/command.jpg)
 ## После выполнения команды:
-![After](images\after.jpg)
+![After](images/after.jpg)
